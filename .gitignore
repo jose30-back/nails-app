@@ -1,0 +1,25 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.log
+
+# === Maven ===
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === Sistema Operativo ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+.log
+
+# === Otros ===
+.env
